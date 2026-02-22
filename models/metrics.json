@@ -1,0 +1,12 @@
+{
+    "test_loss": 0.3093436658382416,
+    "test_accuracy": 0.8657074570655823,
+    "test_precision": 0.6836734414100647,
+    "test_recall": 0.72826087474823,
+    "test_auc": 0.9117559194564819,
+    "test_f1": 0.7052631454388517,
+    "class_indices": {
+        "accident": 0,
+        "non-accident": 1
+    }
+}

@@ -1,0 +1,98 @@
+{
+  "Enhanced Predictor v3.0": {
+    "total_predictions": 19,
+    "errors": 0,
+    "avg_confidence": 0.8092531737881272,
+    "avg_time": 0.18662850480330617,
+    "total_time": 3.549017906188965,
+    "predictions": [
+      {
+        "image": "1.jpg",
+        "prediction": "accident",
+        "confidence": 0.8032694458961487,
+        "method": "enhanced_ensemble_v3.0",
+        "time": 0.3747580051422119
+      },
+      {
+        "image": "10.jpeg",
+        "prediction": "accident",
+        "confidence": 0.750047504901886,
+        "method": "enhanced_ensemble_v3.0",
+        "time": 0.11304020881652832
+      },
+      {
+        "image": "2.jpeg",
+        "prediction": "non-accident",
+        "confidence": 0.8410226851701736,
+        "method": "enhanced_ensemble_v3.0",
+        "time": 0.1390221118927002
+      },
+      {
+        "image": "3.jpeg",
+        "prediction": "non-accident",
+        "confidence": 0.99,
+        "method": "enhanced_ensemble_v3.0",
+        "time": 0.13439464569091797
+      },
+      {
+        "image": "4.jpeg",
+        "prediction": "accident",
+        "confidence": 0.6,
+        "method": "enhanced_ensemble_v3.0",
+        "time": 0.12664437294006348
+      }
+    ]
+  },
+  "Standard Predictor (Updated)": {
+    "total_predictions": 19,
+    "errors": 0,
+    "avg_confidence": 0.7413296051774371,
+    "avg_time": 0.17215824127197266,
+    "total_time": 3.272566318511963,
+    "predictions": [
+      {
+        "image": "1.jpg",
+        "prediction": "non-accident",
+        "confidence": 0.7002963423728943,
+        "method": "unknown",
+        "time": 0.2819037437438965
+      },
+      {
+        "image": "10.jpeg",
+        "prediction": "non-accident",
+        "confidence": 0.6621968746185303,
+        "method": "unknown",
+        "time": 0.11079144477844238
+      },
+      {
+        "image": "2.jpeg",
+        "prediction": "accident",
+        "confidence": 0.9679891169071198,
+        "method": "unknown",
+        "time": 0.12869477272033691
+      },
+      {
+        "image": "3.jpeg",
+        "prediction": "accident",
+        "confidence": 0.99,
+        "method": "unknown",
+        "time": 0.12995457649230957
+      },
+      {
+        "image": "4.jpeg",
+        "prediction": "non-accident",
+        "confidence": 0.5,
+        "method": "unknown",
+        "time": 0.1165461540222168
+      }
+    ]
+  },
+  "Ultra-Precision Predictor": {
+    "total_predictions": 0,
+    "errors": 19,
+    "avg_confidence": 0,
+    "avg_time": 0,
+    "total_time": 7.462314605712891,
+    "predictions": []
+  }
+}
